@@ -1,4 +1,10 @@
 body{
-	color: white;
+	color: #23e5eb;
 	background-color: green;
+	text-align: center;
+}
+.Bears_Box{
+	height: 300000px;
+	width: 1000px;
+	background-color: #ff6600; 
 }
